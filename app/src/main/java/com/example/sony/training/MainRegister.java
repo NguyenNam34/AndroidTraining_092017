@@ -48,7 +48,7 @@ public class MainRegister extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.imageView:
+            case R.id.ivRegister:
                 openGallery();
                 break;
         }
