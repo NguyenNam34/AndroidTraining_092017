@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/ic_face"
+        id="@+id/tab1"
+        title="@string/time_line" />
+    <tab
+        icon="@drawable/ic_android"
+        id="@+id/tab2"
+        title="@string/profile" />
+</tabs>

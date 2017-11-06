@@ -8,4 +8,21 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="LayoutExercise">
+        <item name="android:layout_width">@dimen/dp_300</item>
+        <item name="android:layout_height">@dimen/dp_50</item>
+        <item name="android:layout_marginTop">@dimen/dp_15</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
 </resources>
+
+
+
+
+
+
+
+
